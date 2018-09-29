@@ -1,0 +1,12 @@
+.myButton{
+    align-content: center;
+    color: green;
+    text-align: center;
+    size: 24px;
+}
+
+.joke{
+    color: darkred;
+    text-align: center;
+    size: 33px;
+}
